@@ -1,6 +1,6 @@
 import time
 import webbrowser
-I = 10
+I = 10000
 print(I)
 while(I > 0):
     I -= 1
