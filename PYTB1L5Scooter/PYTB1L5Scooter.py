@@ -14,4 +14,5 @@ while True:
      continue
   else:
      print(bereken_maandkosten())
+     input()
      break 

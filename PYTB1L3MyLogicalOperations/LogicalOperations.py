@@ -10,9 +10,10 @@ moneyInAccount = 1300
 # Of als ik meer dan 10000 euro op mijn rekening heb staan.
 
 
-if name == "erwin henraat" and job != None or moneyInAccount > 10000:
-    buyABrandNewMotorcycle()
 
 def buyABrandNewMotorcycle():
-    for index in range(100):
+    for index in range(1):
         print(":)")
+        
+if name == "erwin henraat" and job != None or moneyInAccount > 10000:
+    buyABrandNewMotorcycle()
